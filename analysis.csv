@@ -1,0 +1,98 @@
+Total Duration of All Videos: 10256.64 hours
+Total Videos: 44868
+Unique Channels: 207
+Min Duration: 0.00 milliseconds
+Max Duration: 26.81 hours
+Average Duration: 13.72 minutes
+Total Duplicate Entries: 44
+Unique Duplicate Videos: 22
+
+Language Analysis:
+Audio Language,sum,min,max,mean,Total Duration,Min Duration,Max Duration,Avg Duration,Video Count,Total Views
+Unknown,5953425,0,23288,775.8927407793561,1653.73 hours,0.00 milliseconds,6.47 hours,12.93 minutes,7673,1264078850
+en,2337001,0,14070,677.3915942028985,649.17 hours,0.00 milliseconds,3.91 hours,11.29 minutes,3450,1036268674
+en-GB,212254,8,10290,587.9612188365651,58.96 hours,8.00 seconds,2.86 hours,9.80 minutes,361,19926990
+en-IN,785453,9,14479,570.8234011627907,218.18 hours,9.00 seconds,4.02 hours,9.51 minutes,1376,112060852
+en-US,652325,5,42900,1065.890522875817,181.20 hours,5.00 seconds,11.92 hours,17.76 minutes,612,413893275
+hi,17163,0,1993,490.37142857142857,4.77 hours,0.00 milliseconds,33.22 minutes,8.17 minutes,35,223156
+ml,110,30,80,55.0,1.83 minutes,30.00 seconds,1.33 minutes,55.00 seconds,2,1660255
+te,26180378,0,96507,837.8793445561032,7272.33 hours,0.00 milliseconds,26.81 hours,13.96 minutes,31246,4876969210
+zxx,785799,12,23791,6953.973451327433,218.28 hours,12.00 seconds,6.61 hours,1.93 hours,113,7225126
+
+
+Domain Analysis:
+Category,sum,min,max,mean,Total Duration,Min Duration,Max Duration,Avg Duration,Video Count,Total Views
+Autos & Vehicles,24043,23,5285,293.2073170731707,6.68 hours,23.00 seconds,1.47 hours,4.89 minutes,82,13479719
+Comedy,345232,0,11104,412.9569377990431,95.90 hours,0.00 milliseconds,3.08 hours,6.88 minutes,836,550487326
+Education,5514913,0,47228,1131.496306934756,1531.92 hours,0.00 milliseconds,13.12 hours,18.86 minutes,4874,375255764
+Entertainment,9428502,0,39564,888.3080836630864,2619.03 hours,0.00 milliseconds,10.99 hours,14.81 minutes,10614,3163376792
+Film & Animation,328728,11,9991,1685.7846153846153,91.31 hours,11.00 seconds,2.78 hours,28.10 minutes,195,90335238
+Gaming,1965386,0,23791,6381.123376623376,545.94 hours,0.00 milliseconds,6.61 hours,1.77 hours,308,96439618
+How-to & Style,157890,8,2274,393.74064837905235,43.86 hours,8.00 seconds,37.90 minutes,6.56 minutes,401,16954587
+Music,411553,36,19060,3846.2897196261683,114.32 hours,36.00 seconds,5.29 hours,1.07 hours,107,4535982
+News & Politics,14227809,0,96507,802.47089678511,3952.17 hours,0.00 milliseconds,26.81 hours,13.37 minutes,17730,988002257
+Nonprofits & Activism,93654,16,7699,628.5503355704698,26.02 hours,16.00 seconds,2.14 hours,10.48 minutes,149,13900493
+People & Blogs,2941125,0,10781,390.4320987654321,816.98 hours,0.00 milliseconds,2.99 hours,6.51 minutes,7533,1505063101
+Pets & Animals,504,205,299,252.0,8.40 minutes,3.42 minutes,4.98 minutes,4.20 minutes,2,204184
+Science & Technology,284274,0,5403,490.9740932642487,78.97 hours,0.00 milliseconds,1.50 hours,8.18 minutes,579,266387552
+Sports,135511,17,4738,459.3593220338983,37.64 hours,17.00 seconds,1.32 hours,7.66 minutes,295,10592805
+Travel & Events,1064784,5,42900,915.5494411006019,295.77 hours,5.00 seconds,11.92 hours,15.26 minutes,1163,637290970
+
+
+Topic Analysis:
+Topics,sum,min,max,mean,Total Duration,Min Duration,Max Duration,Avg Duration,Video Count,Total Views
+https://en.wikipedia.org/wiki/Action-adventure_game,1736055,0,23791,5151.498516320475,482.24 hours,0.00 milliseconds,6.61 hours,1.43 hours,337,80128089
+https://en.wikipedia.org/wiki/Action_game,1964261,0,23791,5486.762569832402,545.63 hours,0.00 milliseconds,6.61 hours,1.52 hours,358,77679634
+https://en.wikipedia.org/wiki/Association_football,5836,16,1299,224.46153846153845,1.62 hours,16.00 seconds,21.65 minutes,3.74 minutes,26,2502705
+https://en.wikipedia.org/wiki/Basketball,28,28,28,28.0,28.00 seconds,28.00 seconds,28.00 seconds,28.00 seconds,1,23818
+https://en.wikipedia.org/wiki/Boxing,2578,36,1193,234.36363636363637,42.97 minutes,36.00 seconds,19.88 minutes,3.91 minutes,11,193241
+https://en.wikipedia.org/wiki/Business,32429,40,1883,337.8020833333333,9.01 hours,40.00 seconds,31.38 minutes,5.63 minutes,96,12201196
+https://en.wikipedia.org/wiki/Casual_game,3712,556,955,742.4,1.03 hours,9.27 minutes,15.92 minutes,12.37 minutes,5,5798676
+https://en.wikipedia.org/wiki/Classical_music,22808,29,10257,1086.095238095238,6.34 hours,29.00 seconds,2.85 hours,18.10 minutes,21,137431
+https://en.wikipedia.org/wiki/Cricket,196742,12,11208,398.2631578947368,54.65 hours,12.00 seconds,3.11 hours,6.64 minutes,494,61125864
+https://en.wikipedia.org/wiki/Electronic_music,2106,16,928,150.42857142857142,35.10 minutes,16.00 seconds,15.47 minutes,2.51 minutes,14,385832
+https://en.wikipedia.org/wiki/Entertainment,5399991,6,18570,554.2431489274351,1500.00 hours,6.00 seconds,5.16 hours,9.24 minutes,9743,3340616966
+https://en.wikipedia.org/wiki/Fashion,167871,10,5213,387.6928406466513,46.63 hours,10.00 seconds,1.45 hours,6.46 minutes,433,59072084
+https://en.wikipedia.org/wiki/Film,4352422,9,16798,610.9519932622122,1209.01 hours,9.00 seconds,4.67 hours,10.18 minutes,7124,2984715286
+https://en.wikipedia.org/wiki/Food,332402,10,4469,501.3604826546003,92.33 hours,10.00 seconds,1.24 hours,8.36 minutes,663,262411841
+https://en.wikipedia.org/wiki/Golf,205,22,183,102.5,3.42 minutes,22.00 seconds,3.05 minutes,1.71 minutes,2,27789
+https://en.wikipedia.org/wiki/Health,279656,15,7532,330.95384615384614,77.68 hours,15.00 seconds,2.09 hours,5.52 minutes,845,88490496
+https://en.wikipedia.org/wiki/Hip_hop_music,8969,39,5214,1494.8333333333333,2.49 hours,39.00 seconds,1.45 hours,24.91 minutes,6,6166794
+https://en.wikipedia.org/wiki/Hobby,287479,6,7981,494.80034423407915,79.86 hours,6.00 seconds,2.22 hours,8.25 minutes,581,187778919
+https://en.wikipedia.org/wiki/Humour,396945,7,9991,571.9668587896253,110.26 hours,7.00 seconds,2.78 hours,9.53 minutes,694,597815113
+https://en.wikipedia.org/wiki/Ice_hockey,473,473,473,473.0,7.88 minutes,7.88 minutes,7.88 minutes,7.88 minutes,1,14703
+https://en.wikipedia.org/wiki/Independent_music,12589,225,7783,4196.333333333333,3.50 hours,3.75 minutes,2.16 hours,1.17 hours,3,75201
+https://en.wikipedia.org/wiki/Knowledge,4978649,0,47228,1445.600754936121,1382.96 hours,0.00 milliseconds,13.12 hours,24.09 minutes,3444,202280387
+https://en.wikipedia.org/wiki/Lifestyle_(sociology),2851771,0,40066,546.9449558879938,792.16 hours,0.00 milliseconds,11.13 hours,9.12 minutes,5214,1979953423
+https://en.wikipedia.org/wiki/Military,71728,43,10830,478.18666666666667,19.92 hours,43.00 seconds,3.01 hours,7.97 minutes,150,10628262
+https://en.wikipedia.org/wiki/Mixed_martial_arts,1103,1103,1103,1103.0,18.38 minutes,18.38 minutes,18.38 minutes,18.38 minutes,1,380401
+https://en.wikipedia.org/wiki/Motorsport,656,129,304,218.66666666666666,10.93 minutes,2.15 minutes,5.07 minutes,3.64 minutes,3,136453
+https://en.wikipedia.org/wiki/Music,1150997,7,39546,1264.831868131868,319.72 hours,7.00 seconds,10.98 hours,21.08 minutes,910,414000219
+https://en.wikipedia.org/wiki/Music_of_Asia,1127388,7,39546,924.088524590164,313.16 hours,7.00 seconds,10.98 hours,15.40 minutes,1220,486548059
+https://en.wikipedia.org/wiki/Music_of_Latin_America,1377,1377,1377,1377.0,22.95 minutes,22.95 minutes,22.95 minutes,22.95 minutes,1,100981
+https://en.wikipedia.org/wiki/Performing_arts,70910,11,7981,506.5,19.70 hours,11.00 seconds,2.22 hours,8.44 minutes,140,46273993
+https://en.wikipedia.org/wiki/Pet,26419,15,3406,419.3492063492063,7.34 hours,15.00 seconds,56.77 minutes,6.99 minutes,63,6057982
+https://en.wikipedia.org/wiki/Physical_attractiveness,3892,491,3401,1946.0,1.08 hours,8.18 minutes,56.68 minutes,32.43 minutes,2,48241
+https://en.wikipedia.org/wiki/Physical_fitness,14461,18,1987,249.32758620689654,4.02 hours,18.00 seconds,33.12 minutes,4.16 minutes,58,7872521
+https://en.wikipedia.org/wiki/Politics,1821070,22,42901,974.3552701979668,505.85 hours,22.00 seconds,11.92 hours,16.24 minutes,1869,122846931
+https://en.wikipedia.org/wiki/Pop_music,24012,11,4043,311.84415584415586,6.67 hours,11.00 seconds,1.12 hours,5.20 minutes,77,134657390
+https://en.wikipedia.org/wiki/Professional_wrestling,2636,101,1023,439.3333333333333,43.93 minutes,1.68 minutes,17.05 minutes,7.32 minutes,6,1841253
+https://en.wikipedia.org/wiki/Puzzle_video_game,16287,204,949,678.625,4.52 hours,3.40 minutes,15.82 minutes,11.31 minutes,24,22802674
+https://en.wikipedia.org/wiki/Religion,9698585,6,40066,1163.0393332533877,2694.05 hours,6.00 seconds,11.13 hours,19.38 minutes,8339,254401439
+https://en.wikipedia.org/wiki/Rhythm_and_blues,1227,1227,1227,1227.0,20.45 minutes,20.45 minutes,20.45 minutes,20.45 minutes,1,554
+https://en.wikipedia.org/wiki/Rock_music,4208,36,3756,701.3333333333334,1.17 hours,36.00 seconds,1.04 hours,11.69 minutes,6,63855
+https://en.wikipedia.org/wiki/Role-playing_video_game,1304286,0,23288,4608.78445229682,362.30 hours,0.00 milliseconds,6.47 hours,1.28 hours,283,71377721
+https://en.wikipedia.org/wiki/Simulation_video_game,29942,0,1645,809.2432432432432,8.32 hours,0.00 milliseconds,27.42 minutes,13.49 minutes,37,30631015
+https://en.wikipedia.org/wiki/Society,15817360,0,42901,817.9841754150075,4393.71 hours,0.00 milliseconds,11.92 hours,13.63 minutes,19337,1208580219
+https://en.wikipedia.org/wiki/Soul_music,11991,17,5021,631.1052631578947,3.33 hours,17.00 seconds,1.39 hours,10.52 minutes,19,2096988
+https://en.wikipedia.org/wiki/Sport,148404,10,7476,294.45238095238096,41.22 hours,10.00 seconds,2.08 hours,4.91 minutes,504,59282224
+https://en.wikipedia.org/wiki/Sports_game,1071,18,515,214.2,17.85 minutes,18.00 seconds,8.58 minutes,3.57 minutes,5,765047
+https://en.wikipedia.org/wiki/Strategy_video_game,1362526,0,23288,6916.375634517766,378.48 hours,0.00 milliseconds,6.47 hours,1.92 hours,197,5947198
+https://en.wikipedia.org/wiki/Technology,653928,12,47228,842.6907216494845,181.65 hours,12.00 seconds,13.12 hours,14.04 minutes,776,77174829
+https://en.wikipedia.org/wiki/Television_program,6932066,14,42899,1022.2778351275623,1925.57 hours,14.00 seconds,11.92 hours,17.04 minutes,6781,714150251
+https://en.wikipedia.org/wiki/Tennis,476,152,163,158.66666666666666,7.93 minutes,2.53 minutes,2.72 minutes,2.64 minutes,3,47908
+https://en.wikipedia.org/wiki/Tourism,1162270,5,7981,999.3723129836629,322.85 hours,5.00 seconds,2.22 hours,16.66 minutes,1163,444064236
+https://en.wikipedia.org/wiki/Vehicle,58106,18,1535,397.986301369863,16.14 hours,18.00 seconds,25.58 minutes,6.63 minutes,146,65581054
+https://en.wikipedia.org/wiki/Video_game_culture,1979276,0,23791,4571.076212471132,549.80 hours,0.00 milliseconds,6.61 hours,1.27 hours,433,107982050
+
+
